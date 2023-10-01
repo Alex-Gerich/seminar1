@@ -1,0 +1,15 @@
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Max\bin\Debug\net6.0\Max.exe
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Max\bin\Debug\net6.0\Max.deps.json
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Max\bin\Debug\net6.0\Max.runtimeconfig.json
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Max\bin\Debug\net6.0\Max.dll
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Max\bin\Debug\net6.0\Max.pdb
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Max\obj\Debug\net6.0\Max.csproj.AssemblyReference.cache
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Max\obj\Debug\net6.0\Max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Max\obj\Debug\net6.0\Max.AssemblyInfoInputs.cache
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Max\obj\Debug\net6.0\Max.AssemblyInfo.cs
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Max\obj\Debug\net6.0\Max.csproj.CoreCompileInputs.cache
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Max\obj\Debug\net6.0\Max.dll
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Max\obj\Debug\net6.0\refint\Max.dll
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Max\obj\Debug\net6.0\Max.pdb
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Max\obj\Debug\net6.0\Max.genruntimeconfig.cache
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Max\obj\Debug\net6.0\ref\Max.dll

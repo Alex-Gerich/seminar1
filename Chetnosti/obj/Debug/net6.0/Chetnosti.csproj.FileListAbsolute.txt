@@ -1,0 +1,15 @@
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Chetnosti\bin\Debug\net6.0\Chetnosti.exe
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Chetnosti\bin\Debug\net6.0\Chetnosti.deps.json
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Chetnosti\bin\Debug\net6.0\Chetnosti.runtimeconfig.json
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Chetnosti\bin\Debug\net6.0\Chetnosti.dll
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Chetnosti\bin\Debug\net6.0\Chetnosti.pdb
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Chetnosti\obj\Debug\net6.0\Chetnosti.csproj.AssemblyReference.cache
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Chetnosti\obj\Debug\net6.0\Chetnosti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Chetnosti\obj\Debug\net6.0\Chetnosti.AssemblyInfoInputs.cache
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Chetnosti\obj\Debug\net6.0\Chetnosti.AssemblyInfo.cs
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Chetnosti\obj\Debug\net6.0\Chetnosti.csproj.CoreCompileInputs.cache
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Chetnosti\obj\Debug\net6.0\Chetnosti.dll
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Chetnosti\obj\Debug\net6.0\refint\Chetnosti.dll
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Chetnosti\obj\Debug\net6.0\Chetnosti.pdb
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Chetnosti\obj\Debug\net6.0\Chetnosti.genruntimeconfig.cache
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Chetnosti\obj\Debug\net6.0\ref\Chetnosti.dll

@@ -1,0 +1,15 @@
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Odno_blche\bin\Debug\net6.0\Odno_blche.exe
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Odno_blche\bin\Debug\net6.0\Odno_blche.deps.json
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Odno_blche\bin\Debug\net6.0\Odno_blche.runtimeconfig.json
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Odno_blche\bin\Debug\net6.0\Odno_blche.dll
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Odno_blche\bin\Debug\net6.0\Odno_blche.pdb
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Odno_blche\obj\Debug\net6.0\Odno_blche.csproj.AssemblyReference.cache
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Odno_blche\obj\Debug\net6.0\Odno_blche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Odno_blche\obj\Debug\net6.0\Odno_blche.AssemblyInfoInputs.cache
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Odno_blche\obj\Debug\net6.0\Odno_blche.AssemblyInfo.cs
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Odno_blche\obj\Debug\net6.0\Odno_blche.csproj.CoreCompileInputs.cache
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Odno_blche\obj\Debug\net6.0\Odno_blche.dll
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Odno_blche\obj\Debug\net6.0\refint\Odno_blche.dll
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Odno_blche\obj\Debug\net6.0\Odno_blche.pdb
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Odno_blche\obj\Debug\net6.0\Odno_blche.genruntimeconfig.cache
+C:\Users\1sany\OneDrive\Рабочий стол\Обучение программированию\обучение с#\первый семинар\c#\Obuchenie\Odno_blche\obj\Debug\net6.0\ref\Odno_blche.dll
